@@ -1,5 +1,6 @@
 Creating a new branch is quickly.
-version 8888
+<<<<<<< HEAD
+version 8 resolve confl:ict
 version 7
 version 6
 version 5
